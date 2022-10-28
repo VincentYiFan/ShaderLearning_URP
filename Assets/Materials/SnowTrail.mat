@@ -94,7 +94,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TrailNormal:
-        m_Texture: {fileID: 2800000, guid: 035cf1826f350a5408ab3f268d9000a3, type: 3}
+        m_Texture: {fileID: 2800000, guid: a694ff03e4d4b6f4a9c23ab991324033, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TrailRoughness:
@@ -102,7 +102,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TrailTex:
-        m_Texture: {fileID: 2800000, guid: dbd09531d68e64e4bb61c6a46f900c21, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0bcdebab441296e42b3592b5a28f23e9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
